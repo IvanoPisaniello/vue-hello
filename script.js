@@ -1,7 +1,7 @@
 const app = Vue.createApp({
     data() {
         return {
-            welcMessage: "benvenuto su vue!",
+            welcMessage: "Benvenuto su vue!",
             titleClass: "d-inline-block",
             srcImg: "img/Vue.js_Logo_2.svg.png",
             nameMessage: "Inserisci il tuo Nome per entrare!",
